@@ -1,0 +1,3 @@
+# Chatbox
+
+permalink: /index.html
