@@ -1,3 +1,3 @@
-# Chatbox
-
+---
 permalink: /index.html
+---
